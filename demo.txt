@@ -2,4 +2,5 @@ Red
 blue
 green
 john
-michael
+white
+pink
