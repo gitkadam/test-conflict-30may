@@ -1,3 +1,5 @@
 Red
 blue
 green
+white
+pink
